@@ -1,0 +1,18 @@
+.display-flex{
+    display: flex;
+}
+
+.container{
+    align-content: center;
+    width: 1500px;
+    background-color: rgba(238, 238, 238, 0.5);
+}
+
+.box{
+    border: solid 1px black;
+    align-items: center;
+    background-color: rgba(238, 238, 238, 0.5);
+    padding: 25px;
+    margin: 25px;
+}
+
